@@ -4,6 +4,7 @@
 ?>
 <div>
 	Premier ajout
+	<p>chose truc</p>
 </div>
 <div class="main_home">
 	<?php
